@@ -1,0 +1,52 @@
+@font-face {
+    font-family: caligrafia;
+    src: url(Ananda\ Black\ Personal\ Use.ttf);
+}
+
+@font-face {
+        font-family: fonteprincipal;
+        src: url(Coolvetica\ Rg\ Cond.otf);
+}
+
+h1{
+    text-align: center;
+    font-size: 80px;
+    font-family: fonteprincipal;
+}
+h2{
+    text-align: center;
+    font-size: 15px;
+    font-family: fonteprincipal;
+}
+a{
+    display: block;
+    margin: auto 600px;
+    text-align: center;
+    background-color: red;
+    text-decoration: none;
+    color: black;
+    border: solid 3px black;
+    font-size: 50px;
+    border-radius: 10px;
+    font-family: fonteprincipal;
+}
+a:hover{
+    font-size: 55px;
+    border-radius: 7px;
+}
+h3{
+    text-align: center;
+    font-size: 50px;
+    font-family: fonteprincipal;
+}
+img{
+    display: block;
+    margin: auto;
+    height: 300px;
+}
+#texto{
+    font-family: caligrafia;
+}
+#menu{
+    font-family: caligrafia;
+}
